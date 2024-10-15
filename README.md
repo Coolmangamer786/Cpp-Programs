@@ -4,7 +4,7 @@
 - make sure gcc/g++ or mingw or any other compiler is install
 - compile the code
     ```
-    g++ `[file_name.cpp]`
+    g++ [file_name.cpp]
     ```
 - run to get output
     ```
